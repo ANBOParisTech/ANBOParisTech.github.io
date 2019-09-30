@@ -31,3 +31,4 @@ Dual degree under a cooperative project between the two schools. Diplôme d’In
 Main courses: Advanced mathematics, Physics, General chemistry, Optimisation, Probability & statistics, Fundamentals of fluid mechanics, Functions of complex variables.
 
 [Download transcript here](http://anboparistech.github.io/files/TranscriptBachelor_AnboCao.pdf)
+
