@@ -24,6 +24,6 @@ By using molecular dynamics simulation, we reveal that Stone-Wales defect increa
 
 <font color="gray" size = "3">Sep 2013 - Sep 2017 | Shanghai, China</font>
 
-Main courses: Advanced mathematics, Physics, General chemistry, Optimisation, Probability&statistics, Fundamentals of fluid mechanics, Functions of complex variables.
+Main courses: Advanced mathematics, Physics, General chemistry, Optimisation, Probability & statistics, Fundamentals of fluid mechanics, Functions of complex variables.
 
 [Download transcript here](http://anboparistech.github.io/files/TranscriptBachelor_AnboCao.pdf.pdf)
