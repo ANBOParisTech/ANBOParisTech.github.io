@@ -19,7 +19,7 @@ redirect_from:
 
 By using molecular dynamics simulation, we reveal that Stone-Wales defect increases the friction of graphene. This influence is anisotropic and is more significant along the long axis of the defect. The friction enhancement results from two distinctive mechanisms. One is the pinning effect between several tip bottom atoms and the heptagons. In this case, the potential barrier of heptagons is larger than hexagons, and therefore the resistance is increased when a tip atom passes above these rings. The other mechanism is that the strong resistance to out-of-plane deformation leads to higher pucker beside the defect at certain moments and thus modifies the configuration of wrinkle. This study provides new insight into the atomic scale friction of defective graphene.
 
-<b>The paper of this project is under peer review.</b>
+<b>The paper of this project is under peer review. Please contact me if you want to read it.</b>
 
 
 ## Car Handbrake Bracket Design and Optimization
