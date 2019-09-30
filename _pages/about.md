@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student from <font color="#20B2AA"><a href="http://speit.sjtu.edu.cn/indexen.html/">SJTU-ParisTech Elite Institute of Technology</a></font> of Shanghai Jiao Tong University, China. I major in mechanical engineering and I will graduate in March, 2020. I have also acquired a Diplôme d'Ingénieur (master degree in engineering) at <font color="#20B2AA"><a href="http://www.ensta-paris.fr/en">ENSTA ParisTech</a></font>, France. My research inerests are mainly concentrated on <b>Microtribology, Multi-scale Simulations, and Life-span Analysis of Micro-systems</b>. I have been working on
+I am a master student from <font color="#20B2AA"><a href="http://speit.sjtu.edu.cn/indexen.html">SJTU-ParisTech Elite Institute of Technology</a></font> of Shanghai Jiao Tong University, China. I major in mechanical engineering and I will graduate in March, 2020. I have also acquired a Diplôme d'Ingénieur (master degree in engineering) at <font color="#20B2AA"><a href="http://www.ensta-paris.fr/en">ENSTA ParisTech</a></font>, France. My research inerests are mainly concentrated on <b>Microtribology, Multi-scale Simulations, and Life-span Analysis of Micro-systems</b>. I have been working on
 
  * Superlubricity of Graphene Induced by Mussel Adhesive Protein Interlayer
  * Influence of Stone-Wales Defect on Graphene Friction
