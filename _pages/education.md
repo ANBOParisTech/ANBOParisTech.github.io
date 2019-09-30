@@ -14,7 +14,7 @@ Main courses: New materials for vehicle and aircraft, Fatigue, fissuration and d
 
 GPA: 4.0/4.0
 
-[Download transcript here](http://anboparistech.github.io/files/TranscriptMaster_AnboCao.pdf.pdf)
+[Download transcript here](http://anboparistech.github.io/files/TranscriptMaster_AnboCao.pdf)
 
 
 ## <a href="http://www.ensta-paris.fr/en/">ENSTA Paris</a> | Diplôme d’Ingénieur
@@ -30,4 +30,4 @@ Dual degree under a cooperative project between the two schools. Diplôme d’In
 
 Main courses: Advanced mathematics, Physics, General chemistry, Optimisation, Probability&statistics, Fundamentals of fluid mechanics, Functions of complex variables.
 
-[Download transcript here](http://anboparistech.github.io/files/TranscriptBachelor_AnboCao.pdf.pdf)
+[Download transcript here](http://anboparistech.github.io/files/TranscriptBachelor_AnboCao.pdf)
