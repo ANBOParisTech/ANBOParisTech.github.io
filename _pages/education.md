@@ -6,7 +6,7 @@ redirect_from:
   - /education.html
 ---
 
-## <font color="#20B2AA"><a href="http://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> | MSc in Mechanical Engineering</font>
+## <a href="http://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> | MSc in Mechanical Engineering
 
 <font color="gray" size = "3">Sep 2017 - Present | Shanghai, China</font>
 
