@@ -26,7 +26,7 @@ By using molecular dynamics simulation, we reveal that Stone-Wales defect increa
 
 <font color="gray" size = "3">Oct 2018 - Jan 2019</font>
 
-A car company want to design a car handbrake bracket under several limits on force, deformation and installation. We design this product by topology optimization using HyperWorks. The price is estimated using information available on the market. The final design fulfills all the requirements at an acceptable price. As the training part of this project, we are also required to optimize a beam of composite materials using dimension optimization.
+A car company wants to design a car handbrake bracket under several limits on force, deformation and installation. We design this product by topology optimization using HyperWorks. The price is estimated using information available on the market. The final design fulfills all the requirements at an acceptable price. As the training part of this project, we are also required to optimize a beam of composite materials using dimension optimization.
 
 [Download the report of the training project here](http://anboparistech.github.io/files/BeamOptimization.pdf)
 
